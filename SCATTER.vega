@@ -175,8 +175,8 @@
           },
           "color": {"field": "Sex", "type": "nominal", "scale": {"domain": ["Female", "Male"], "range": ["#7e59d4", "#51a85f"]}},
           "tooltip": [{"field": "Name", "type": "nominal", "title": "Athlete"}, 
-                    {"field": "Weight", "type": "quantitative"}, 
-                    {"field": "Height", "type": "quantitative"}]
+                    {"field": "Weight", "type": "quantitative", "title": "Weight (kg)"}, 
+                    {"field": "Height", "type": "quantitative", "title": "Height (m)"}]
         }
       },
       {
