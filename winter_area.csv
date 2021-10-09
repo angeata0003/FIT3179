@@ -1,0 +1,535 @@
+"","Year","Team","Season","total"
+"1",1924,"Australia","Winter",1
+"2",1924,"Austria","Winter",4
+"3",1924,"Belgium-1","Winter",5
+"4",1924,"Canada","Winter",9
+"5",1924,"Finland","Winter",15
+"6",1924,"France","Winter",8
+"7",1924,"France-1","Winter",2
+"8",1924,"Great Britain","Winter",27
+"9",1924,"Great Britain-1","Winter",4
+"10",1924,"India","Winter",7
+"11",1924,"Nepal","Winter",1
+"12",1924,"Norway","Winter",17
+"13",1924,"Sweden","Winter",9
+"14",1924,"Switzerland","Winter",5
+"15",1924,"Switzerland-1","Winter",4
+"16",1924,"United States","Winter",12
+"17",1928,"Austria","Winter",2
+"18",1928,"Austria-1","Winter",2
+"19",1928,"Austria-2","Winter",2
+"20",1928,"Belgium","Winter",1
+"21",1928,"Canada","Winter",12
+"22",1928,"Czechoslovakia","Winter",1
+"23",1928,"Finland","Winter",4
+"24",1928,"France","Winter",2
+"25",1928,"Germany-2","Winter",5
+"26",1928,"Great Britain","Winter",1
+"27",1928,"Norway","Winter",15
+"28",1928,"Sweden","Winter",16
+"29",1928,"Switzerland","Winter",12
+"30",1928,"United States","Winter",4
+"31",1928,"United States-1","Winter",5
+"32",1928,"United States-2","Winter",5
+"33",1932,"Austria","Winter",2
+"34",1932,"Canada","Winter",20
+"35",1932,"Finland","Winter",3
+"36",1932,"France","Winter",2
+"37",1932,"Germany","Winter",10
+"38",1932,"Germany-1","Winter",4
+"39",1932,"Hungary-1","Winter",2
+"40",1932,"Norway","Winter",10
+"41",1932,"Sweden","Winter",3
+"42",1932,"Switzerland-2","Winter",2
+"43",1932,"United States","Winter",20
+"44",1932,"United States-1","Winter",8
+"45",1932,"United States-2","Winter",6
+"46",1936,"Austria","Winter",3
+"47",1936,"Austria-1","Winter",2
+"48",1936,"Canada","Winter",13
+"49",1936,"Finland","Winter",9
+"50",1936,"France","Winter",1
+"51",1936,"Germany","Winter",5
+"52",1936,"Germany-1","Winter",2
+"53",1936,"Great Britain","Winter",17
+"54",1936,"Hungary-1","Winter",2
+"55",1936,"Norway","Winter",18
+"56",1936,"Sweden","Winter",10
+"57",1936,"Switzerland-1","Winter",4
+"58",1936,"Switzerland-2","Winter",6
+"59",1936,"United States","Winter",12
+"60",1936,"United States-1","Winter",2
+"61",1936,"United States-2","Winter",2
+"62",1948,"Austria","Winter",8
+"63",1948,"Belgium","Winter",6
+"64",1948,"Canada","Winter",15
+"65",1948,"Czechoslovakia","Winter",17
+"66",1948,"Finland","Winter",9
+"67",1948,"France","Winter",5
+"68",1948,"Great Britain","Winter",2
+"69",1948,"Hungary-1","Winter",2
+"70",1948,"Italy","Winter",1
+"71",1948,"Norway","Winter",13
+"72",1948,"Sweden","Winter",13
+"73",1948,"Switzerland","Winter",24
+"74",1948,"Switzerland-1","Winter",2
+"75",1948,"Switzerland-2","Winter",2
+"76",1948,"United States","Winter",6
+"77",1948,"United States-1","Winter",4
+"78",1948,"United States-2","Winter",6
+"79",1952,"Austria","Winter",8
+"80",1952,"Canada","Winter",17
+"81",1952,"Finland","Winter",12
+"82",1952,"France","Winter",1
+"83",1952,"Germany","Winter",8
+"84",1952,"Germany-1","Winter",4
+"85",1952,"Great Britain","Winter",1
+"86",1952,"Hungary-1","Winter",2
+"87",1952,"Italy","Winter",2
+"88",1952,"Netherlands","Winter",3
+"89",1952,"Norway","Winter",19
+"90",1952,"Sweden","Winter",23
+"91",1952,"Switzerland-1","Winter",6
+"92",1952,"United States","Winter",22
+"93",1952,"United States-1","Winter",8
+"94",1956,"Austria","Winter",10
+"95",1956,"Austria-1","Winter",2
+"96",1956,"Canada","Winter",18
+"97",1956,"Canada-1","Winter",2
+"98",1956,"Finland","Winter",12
+"99",1956,"Germany","Winter",2
+"100",1956,"Hungary","Winter",2
+"101",1956,"Italy-1","Winter",2
+"102",1956,"Italy-2","Winter",6
+"103",1956,"Japan","Winter",1
+"104",1956,"Norway","Winter",4
+"105",1956,"Poland","Winter",1
+"106",1956,"Soviet Union","Winter",37
+"107",1956,"Sweden","Winter",15
+"108",1956,"Switzerland","Winter",4
+"109",1956,"Switzerland-1","Winter",6
+"110",1956,"United States","Winter",22
+"111",1956,"United States-1","Winter",4
+"112",1960,"Austria","Winter",6
+"113",1960,"Canada","Winter",19
+"114",1960,"Canada-1","Winter",2
+"115",1960,"Czechoslovakia","Winter",1
+"116",1960,"Finland","Winter",13
+"117",1960,"France","Winter",3
+"118",1960,"Germany","Winter",7
+"119",1960,"Germany-1","Winter",2
+"120",1960,"Italy","Winter",1
+"121",1960,"Netherlands","Winter",2
+"122",1960,"Norway","Winter",9
+"123",1960,"Poland","Winter",2
+"124",1960,"Soviet Union","Winter",42
+"125",1960,"Sweden","Winter",9
+"126",1960,"Switzerland","Winter",2
+"127",1960,"United States","Winter",25
+"128",1960,"United States-1","Winter",2
+"129",1964,"Austria","Winter",9
+"130",1964,"Austria-1","Winter",6
+"131",1964,"Austria-2","Winter",2
+"132",1964,"Canada","Winter",1
+"133",1964,"Canada-1","Winter",6
+"134",1964,"Czechoslovakia","Winter",17
+"135",1964,"Finland","Winter",15
+"136",1964,"France","Winter",7
+"137",1964,"Germany","Winter",8
+"138",1964,"Germany-1","Winter",2
+"139",1964,"Great Britain-1","Winter",2
+"140",1964,"Italy-1","Winter",4
+"141",1964,"Italy-2","Winter",6
+"142",1964,"Netherlands","Winter",2
+"143",1964,"North Korea","Winter",1
+"144",1964,"Norway","Winter",15
+"145",1964,"Soviet Union","Winter",45
+"146",1964,"Soviet Union-1","Winter",2
+"147",1964,"Sweden","Winter",28
+"148",1964,"United States","Winter",6
+"149",1964,"United States-1","Winter",2
+"150",1968,"Austria","Winter",9
+"151",1968,"Austria-1","Winter",6
+"152",1968,"Canada","Winter",20
+"153",1968,"Czechoslovakia","Winter",21
+"154",1968,"East Germany","Winter",4
+"155",1968,"East Germany-1","Winter",2
+"156",1968,"Finland","Winter",8
+"157",1968,"France","Winter",9
+"158",1968,"Italy","Winter",2
+"159",1968,"Italy-1","Winter",6
+"160",1968,"Netherlands","Winter",9
+"161",1968,"Norway","Winter",22
+"162",1968,"Romania-1","Winter",2
+"163",1968,"Soviet Union","Winter",33
+"164",1968,"Soviet Union-1","Winter",2
+"165",1968,"Soviet Union-2","Winter",2
+"166",1968,"Sweden","Winter",16
+"167",1968,"Switzerland","Winter",5
+"168",1968,"Switzerland-1","Winter",4
+"169",1968,"United States","Winter",7
+"170",1968,"West Germany","Winter",4
+"171",1968,"West Germany-1","Winter",6
+"172",1972,"Austria","Winter",5
+"173",1972,"Canada","Winter",1
+"174",1972,"Czechoslovakia","Winter",20
+"175",1972,"East Germany","Winter",14
+"176",1972,"East Germany-1","Winter",4
+"177",1972,"East Germany-2","Winter",2
+"178",1972,"Finland","Winter",10
+"179",1972,"France","Winter",3
+"180",1972,"Italy","Winter",3
+"181",1972,"Italy-1","Winter",6
+"182",1972,"Japan","Winter",3
+"183",1972,"Netherlands","Winter",9
+"184",1972,"Norway","Winter",17
+"185",1972,"Poland","Winter",1
+"186",1972,"Soviet Union","Winter",41
+"187",1972,"Soviet Union-1","Winter",2
+"188",1972,"Soviet Union-2","Winter",2
+"189",1972,"Spain","Winter",1
+"190",1972,"Sweden","Winter",4
+"191",1972,"Switzerland","Winter",11
+"192",1972,"Switzerland-1","Winter",6
+"193",1972,"United States","Winter",24
+"194",1972,"West Germany","Winter",2
+"195",1972,"West Germany-1","Winter",6
+"196",1972,"West Germany-2","Winter",2
+"197",1976,"Austria","Winter",5
+"198",1976,"Austria-1","Winter",2
+"199",1976,"Canada","Winter",3
+"200",1976,"Czechoslovakia","Winter",19
+"201",1976,"East Germany","Winter",20
+"202",1976,"East Germany-1","Winter",8
+"203",1976,"East Germany-2","Winter",4
+"204",1976,"Finland","Winter",16
+"205",1976,"France","Winter",1
+"206",1976,"Great Britain","Winter",1
+"207",1976,"Italy","Winter",4
+"208",1976,"Liechtenstein","Winter",2
+"209",1976,"Netherlands","Winter",6
+"210",1976,"Norway","Winter",10
+"211",1976,"Soviet Union","Winter",50
+"212",1976,"Soviet Union-1","Winter",4
+"213",1976,"Soviet Union-2","Winter",2
+"214",1976,"Sweden","Winter",2
+"215",1976,"Switzerland","Winter",3
+"216",1976,"Switzerland-1","Winter",2
+"217",1976,"Switzerland-2","Winter",4
+"218",1976,"United States","Winter",9
+"219",1976,"United States-1","Winter",2
+"220",1976,"West Germany","Winter",24
+"221",1976,"West Germany-1","Winter",8
+"222",1980,"Austria","Winter",6
+"223",1980,"Austria-1","Winter",2
+"224",1980,"Bulgaria","Winter",1
+"225",1980,"Canada","Winter",2
+"226",1980,"Czechoslovakia","Winter",1
+"227",1980,"East Germany","Winter",23
+"228",1980,"East Germany-1","Winter",10
+"229",1980,"East Germany-2","Winter",6
+"230",1980,"Finland","Winter",12
+"231",1980,"France","Winter",1
+"232",1980,"Great Britain","Winter",1
+"233",1980,"Hungary","Winter",2
+"234",1980,"Italy","Winter",1
+"235",1980,"Italy-1","Winter",2
+"236",1980,"Japan","Winter",1
+"237",1980,"Liechtenstein","Winter",4
+"238",1980,"Netherlands","Winter",4
+"239",1980,"Norway","Winter",15
+"240",1980,"Soviet Union","Winter",46
+"241",1980,"Soviet Union-1","Winter",4
+"242",1980,"Soviet Union-2","Winter",4
+"243",1980,"Sweden","Winter",23
+"244",1980,"Switzerland","Winter",3
+"245",1980,"Switzerland-1","Winter",4
+"246",1980,"Switzerland-2","Winter",2
+"247",1980,"United States","Winter",30
+"248",1980,"West Germany","Winter",8
+"249",1984,"Austria","Winter",1
+"250",1984,"Canada","Winter",4
+"251",1984,"Czechoslovakia","Winter",28
+"252",1984,"East Germany","Winter",19
+"253",1984,"East Germany-1","Winter",8
+"254",1984,"East Germany-2","Winter",6
+"255",1984,"Finland","Winter",19
+"256",1984,"France","Winter",3
+"257",1984,"Great Britain-1","Winter",2
+"258",1984,"Italy","Winter",2
+"259",1984,"Japan","Winter",1
+"260",1984,"Liechtenstein","Winter",2
+"261",1984,"Norway","Winter",15
+"262",1984,"Soviet Union","Winter",44
+"263",1984,"Soviet Union-1","Winter",6
+"264",1984,"Soviet Union-2","Winter",6
+"265",1984,"Sweden","Winter",30
+"266",1984,"Switzerland","Winter",4
+"267",1984,"Switzerland-1","Winter",4
+"268",1984,"United States","Winter",7
+"269",1984,"United States-1","Winter",2
+"270",1984,"West Germany","Winter",6
+"271",1984,"West Germany-1","Winter",2
+"272",1984,"Yugoslavia","Winter",1
+"273",1988,"Austria","Winter",12
+"274",1988,"Canada","Winter",4
+"275",1988,"Canada-1","Winter",2
+"276",1988,"Czechoslovakia","Winter",6
+"277",1988,"East Germany","Winter",20
+"278",1988,"East Germany-1","Winter",8
+"279",1988,"East Germany-2","Winter",4
+"280",1988,"Finland","Winter",34
+"281",1988,"France","Winter",2
+"282",1988,"Italy","Winter",8
+"283",1988,"Japan","Winter",1
+"284",1988,"Liechtenstein","Winter",1
+"285",1988,"Netherlands","Winter",7
+"286",1988,"Norway","Winter",11
+"287",1988,"Soviet Union","Winter",52
+"288",1988,"Soviet Union-1","Winter",6
+"289",1988,"Soviet Union-2","Winter",8
+"290",1988,"Sweden","Winter",30
+"291",1988,"Switzerland","Winter",16
+"292",1988,"Switzerland-1","Winter",4
+"293",1988,"United States","Winter",5
+"294",1988,"United States-1","Winter",2
+"295",1988,"West Germany","Winter",12
+"296",1988,"West Germany-1","Winter",2
+"297",1988,"Yugoslavia","Winter",6
+"298",1992,"Austria","Winter",25
+"299",1992,"Austria-1","Winter",4
+"300",1992,"Canada","Winter",34
+"301",1992,"Canada-1","Winter",2
+"302",1992,"China","Winter",3
+"303",1992,"Czechoslovakia","Winter",27
+"304",1992,"Finland","Winter",13
+"305",1992,"France","Winter",10
+"306",1992,"France-1","Winter",2
+"307",1992,"Germany","Winter",26
+"308",1992,"Germany-1","Winter",8
+"309",1992,"Germany-2","Winter",4
+"310",1992,"Italy","Winter",19
+"311",1992,"Italy-1","Winter",2
+"312",1992,"Japan","Winter",12
+"313",1992,"Luxembourg","Winter",2
+"314",1992,"Netherlands","Winter",4
+"315",1992,"New Zealand","Winter",1
+"316",1992,"North Korea","Winter",1
+"317",1992,"Norway","Winter",24
+"318",1992,"South Korea","Winter",7
+"319",1992,"Spain","Winter",1
+"320",1992,"Sweden","Winter",7
+"321",1992,"Switzerland","Winter",1
+"322",1992,"Switzerland-1","Winter",6
+"323",1992,"Unified Team","Winter",51
+"324",1992,"Unified Team-1","Winter",4
+"325",1992,"Unified Team-2","Winter",4
+"326",1992,"United States","Winter",14
+"327",1994,"Australia","Winter",4
+"328",1994,"Austria","Winter",12
+"329",1994,"Belarus","Winter",2
+"330",1994,"Canada","Winter",35
+"331",1994,"Canada-1","Winter",2
+"332",1994,"China","Winter",3
+"333",1994,"Finland","Winter",30
+"334",1994,"France","Winter",11
+"335",1994,"Germany","Winter",30
+"336",1994,"Germany-1","Winter",6
+"337",1994,"Germany-2","Winter",4
+"338",1994,"Great Britain","Winter",3
+"339",1994,"Italy","Winter",26
+"340",1994,"Italy-1","Winter",4
+"341",1994,"Italy-2","Winter",2
+"342",1994,"Japan","Winter",10
+"343",1994,"Kazakhstan","Winter",3
+"344",1994,"Netherlands","Winter",4
+"345",1994,"Norway","Winter",30
+"346",1994,"Russia","Winter",28
+"347",1994,"Russia-1","Winter",4
+"348",1994,"Russia-2","Winter",4
+"349",1994,"Slovenia","Winter",3
+"350",1994,"South Korea","Winter",9
+"351",1994,"Sweden","Winter",24
+"352",1994,"Switzerland","Winter",8
+"353",1994,"Switzerland-1","Winter",6
+"354",1994,"Switzerland-2","Winter",2
+"355",1994,"Ukraine","Winter",2
+"356",1994,"United States","Winter",19
+"357",1994,"Uzbekistan","Winter",1
+"358",1998,"Australia","Winter",1
+"359",1998,"Austria","Winter",20
+"360",1998,"Belarus","Winter",2
+"361",1998,"Belgium","Winter",1
+"362",1998,"Bulgaria","Winter",1
+"363",1998,"Canada","Winter",47
+"364",1998,"Canada-1","Winter",2
+"365",1998,"China","Winter",14
+"366",1998,"Czech Republic","Winter",23
+"367",1998,"Denmark","Winter",5
+"368",1998,"Finland","Winter",58
+"369",1998,"France","Winter",13
+"370",1998,"France-1","Winter",2
+"371",1998,"Germany","Winter",34
+"372",1998,"Germany-1","Winter",6
+"373",1998,"Germany-2","Winter",4
+"374",1998,"Great Britain","Winter",4
+"375",1998,"Italy","Winter",15
+"376",1998,"Italy-1","Winter",2
+"377",1998,"Japan","Winter",13
+"378",1998,"Kazakhstan","Winter",2
+"379",1998,"Netherlands","Winter",11
+"380",1998,"Norway","Winter",40
+"381",1998,"Russia","Winter",44
+"382",1998,"Russia-1","Winter",4
+"383",1998,"Russia-2","Winter",4
+"384",1998,"South Korea","Winter",12
+"385",1998,"Sweden","Winter",7
+"386",1998,"Switzerland","Winter",10
+"387",1998,"Switzerland-1","Winter",4
+"388",1998,"Ukraine","Winter",1
+"389",1998,"United States","Winter",30
+"390",1998,"United States-1","Winter",2
+"391",1998,"United States-2","Winter",2
+"392",2002,"Australia","Winter",2
+"393",2002,"Austria","Winter",20
+"394",2002,"Belarus","Winter",1
+"395",2002,"Bulgaria","Winter",3
+"396",2002,"Canada","Winter",72
+"397",2002,"Canada-1","Winter",2
+"398",2002,"China","Winter",14
+"399",2002,"China-1","Winter",2
+"400",2002,"Croatia","Winter",4
+"401",2002,"Czech Republic","Winter",3
+"402",2002,"Estonia","Winter",3
+"403",2002,"Finland","Winter",13
+"404",2002,"France","Winter",13
+"405",2002,"France-1","Winter",2
+"406",2002,"Germany","Winter",49
+"407",2002,"Germany-1","Winter",4
+"408",2002,"Germany-2","Winter",8
+"409",2002,"Great Britain","Winter",6
+"410",2002,"Italy","Winter",19
+"411",2002,"Italy-1","Winter",2
+"412",2002,"Japan","Winter",2
+"413",2002,"Netherlands","Winter",8
+"414",2002,"Norway","Winter",41
+"415",2002,"Poland","Winter",2
+"416",2002,"Russia","Winter",34
+"417",2002,"Russia-1","Winter",4
+"418",2002,"Slovenia","Winter",4
+"419",2002,"South Korea","Winter",7
+"420",2002,"Sweden","Winter",26
+"421",2002,"Switzerland","Winter",20
+"422",2002,"Switzerland-1","Winter",2
+"423",2002,"Switzerland-2","Winter",2
+"424",2002,"United States","Winter",70
+"425",2002,"United States-1","Winter",6
+"426",2002,"United States-2","Winter",8
+"427",2006,"Australia","Winter",2
+"428",2006,"Austria","Winter",28
+"429",2006,"Austria-1","Winter",2
+"430",2006,"Belarus","Winter",1
+"431",2006,"Bulgaria","Winter",1
+"432",2006,"Canada","Winter",67
+"433",2006,"Canada-1","Winter",2
+"434",2006,"China","Winter",9
+"435",2006,"China-1","Winter",2
+"436",2006,"China-3","Winter",2
+"437",2006,"Croatia","Winter",3
+"438",2006,"Czech Republic","Winter",27
+"439",2006,"Estonia","Winter",3
+"440",2006,"Finland","Winter",41
+"441",2006,"France","Winter",15
+"442",2006,"Germany","Winter",44
+"443",2006,"Germany-1","Winter",10
+"444",2006,"Great Britain","Winter",1
+"445",2006,"Italy","Winter",21
+"446",2006,"Italy-1","Winter",4
+"447",2006,"Japan","Winter",1
+"448",2006,"Latvia","Winter",1
+"449",2006,"Netherlands","Winter",13
+"450",2006,"Norway","Winter",23
+"451",2006,"Poland","Winter",2
+"452",2006,"Russia","Winter",33
+"453",2006,"Russia-1","Winter",8
+"454",2006,"Slovakia","Winter",1
+"455",2006,"South Korea","Winter",19
+"456",2006,"Sweden","Winter",64
+"457",2006,"Switzerland","Winter",15
+"458",2006,"Switzerland-1","Winter",6
+"459",2006,"Ukraine","Winter",1
+"460",2006,"Ukraine-1","Winter",2
+"461",2006,"United States","Winter",48
+"462",2006,"United States-1","Winter",4
+"463",2010,"Australia","Winter",3
+"464",2010,"Austria","Winter",24
+"465",2010,"Austria-1","Winter",2
+"466",2010,"Belarus","Winter",3
+"467",2010,"Canada","Winter",80
+"468",2010,"Canada-1","Winter",8
+"469",2010,"Canada-2","Winter",2
+"470",2010,"China","Winter",15
+"471",2010,"China-1","Winter",2
+"472",2010,"China-2","Winter",2
+"473",2010,"Croatia","Winter",3
+"474",2010,"Czech Republic","Winter",9
+"475",2010,"Estonia","Winter",1
+"476",2010,"Finland","Winter",47
+"477",2010,"France","Winter",14
+"478",2010,"Germany","Winter",42
+"479",2010,"Germany-1","Winter",8
+"480",2010,"Germany-2","Winter",4
+"481",2010,"Great Britain","Winter",1
+"482",2010,"Italy","Winter",5
+"483",2010,"Japan","Winter",7
+"484",2010,"Kazakhstan","Winter",1
+"485",2010,"Latvia","Winter",1
+"486",2010,"Latvia-1","Winter",2
+"487",2010,"Netherlands","Winter",11
+"488",2010,"Norway","Winter",39
+"489",2010,"Poland","Winter",8
+"490",2010,"Russia","Winter",21
+"491",2010,"Russia-1","Winter",4
+"492",2010,"Slovakia","Winter",3
+"493",2010,"Slovenia","Winter",3
+"494",2010,"South Korea","Winter",18
+"495",2010,"Sweden","Winter",18
+"496",2010,"Switzerland","Winter",12
+"497",2010,"United States","Winter",89
+"498",2010,"United States-1","Winter",6
+"499",2010,"United States-2","Winter",2
+"500",2014,"Australia","Winter",3
+"501",2014,"Austria","Winter",25
+"502",2014,"Austria-1","Winter",2
+"503",2014,"Belarus","Winter",6
+"504",2014,"Canada","Winter",82
+"505",2014,"Canada-1","Winter",4
+"506",2014,"China","Winter",12
+"507",2014,"Croatia","Winter",1
+"508",2014,"Czech Republic","Winter",11
+"509",2014,"Finland","Winter",33
+"510",2014,"France","Winter",18
+"511",2014,"Germany","Winter",32
+"512",2014,"Germany-1","Winter",4
+"513",2014,"Great Britain","Winter",10
+"514",2014,"Italy","Winter",14
+"515",2014,"Japan","Winter",11
+"516",2014,"Kazakhstan","Winter",1
+"517",2014,"Latvia","Winter",5
+"518",2014,"Latvia-1","Winter",6
+"519",2014,"Netherlands","Winter",29
+"520",2014,"Norway","Winter",36
+"521",2014,"Poland","Winter",11
+"522",2014,"Russia","Winter",56
+"523",2014,"Russia-1","Winter",10
+"524",2014,"Russia-2","Winter",2
+"525",2014,"Slovakia","Winter",1
+"526",2014,"Slovenia","Winter",8
+"527",2014,"South Korea","Winter",14
+"528",2014,"Sweden","Winter",51
+"529",2014,"Switzerland","Winter",28
+"530",2014,"Switzerland-1","Winter",2
+"531",2014,"Ukraine","Winter",5
+"532",2014,"United States","Winter",52
+"533",2014,"United States-1","Winter",10
+"534",2014,"United States-2","Winter",2
