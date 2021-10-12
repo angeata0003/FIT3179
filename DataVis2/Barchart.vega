@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Bar chart",
+    "title": "Most Gold Medals",
+    "data": {"url": "https://raw.githubusercontent.com/angeata0003/FIT3179/main/medal_tally.csv"},
+    "transform": [{"filter": "datum.n > 6"}],
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Name",
+        "type": "ordinal", 
+        "title": "Athlete", 
+        "sort": "-x"},
+      "x": {
+        "field": "n",
+        "type": "quantitative",
+        "title": "Number of Gold Medals"},
+      "tooltip": [{"field": "Name", "type": "nominal", "title": "Athlete"}, 
+      {"field": "Team", "type": "nominal", "title": "Team"}, 
+      {"field": "Sport", "type": "nominal", "title": "Sport"}]
+    }
+  }

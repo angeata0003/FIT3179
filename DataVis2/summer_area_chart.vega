@@ -1,0 +1,23 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 600, 
+    "height": 200,
+    "title": "Area Chart Of Medals Won",
+    "data": {"url": "https://raw.githubusercontent.com/angeata0003/FIT3179/main/summer_area.csv"},
+    "mark": "area",
+    "encoding": {
+      "x": {
+        "timeUnit": "year", "field": "Year",
+        "axis": {"format": "%Y"}
+      },
+      "y": {
+        "aggregate": "sum", "field": "total"
+      },
+      "color": {
+        "field": "Team"
+      }
+    }
+  }
+
+  
+
