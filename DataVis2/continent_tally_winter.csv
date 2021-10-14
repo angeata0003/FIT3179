@@ -1,0 +1,70 @@
+"","Year","Continent_Name","totalcont"
+"1",1924,"Asia",7
+"2",1924,"Europe",101
+"3",1924,"North America",21
+"4",1924,"Oceania",1
+"5",1928,"Europe",62
+"6",1928,"North America",26
+"7",1932,"Europe",38
+"8",1932,"North America",54
+"9",1936,"Europe",79
+"10",1936,"North America",29
+"11",1948,"Europe",87
+"12",1948,"North America",31
+"13",1952,"Europe",89
+"14",1952,"North America",47
+"15",1956,"Asia",38
+"16",1956,"Europe",66
+"17",1956,"North America",46
+"18",1960,"Asia",42
+"19",1960,"Europe",56
+"20",1960,"North America",48
+"21",1964,"Asia",48
+"22",1964,"Europe",106
+"23",1964,"North America",15
+"24",1968,"Asia",37
+"25",1968,"Europe",108
+"26",1968,"North America",27
+"27",1972,"Asia",48
+"28",1972,"Europe",86
+"29",1972,"North America",25
+"30",1976,"Asia",56
+"31",1976,"Europe",90
+"32",1976,"North America",14
+"33",1980,"Asia",55
+"34",1980,"Europe",90
+"35",1980,"North America",32
+"36",1984,"Asia",57
+"37",1984,"Europe",91
+"38",1984,"North America",13
+"39",1988,"Asia",67
+"40",1988,"Europe",145
+"41",1988,"North America",13
+"42",1992,"Asia",23
+"43",1992,"Europe",158
+"44",1992,"North America",50
+"45",1992,"Oceania",1
+"46",1994,"Asia",62
+"47",1994,"Europe",245
+"48",1994,"North America",56
+"49",1994,"Oceania",4
+"50",1998,"Asia",93
+"51",1998,"Europe",311
+"52",1998,"North America",83
+"53",1998,"Oceania",1
+"54",2002,"Asia",63
+"55",2002,"Europe",282
+"56",2002,"North America",158
+"57",2002,"Oceania",2
+"58",2006,"Asia",74
+"59",2006,"Europe",365
+"60",2006,"North America",121
+"61",2006,"Oceania",2
+"62",2010,"Asia",70
+"63",2010,"Europe",277
+"64",2010,"North America",187
+"65",2010,"Oceania",3
+"66",2014,"Asia",106
+"67",2014,"Europe",387
+"68",2014,"North America",150
+"69",2014,"Oceania",3
