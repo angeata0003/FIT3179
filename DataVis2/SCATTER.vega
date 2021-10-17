@@ -3,7 +3,7 @@
     "description": "A Scatterplot of Athlete Height and Weight",
     "title": {"text": "A Scatterplot of Athlete Height and Weight", "font": "Poppins", "fontSize": 14},
     "width": 720,
-    "height": 330,
+    "height": 320,
     "data": {
       "url": "https://raw.githubusercontent.com/angeata0003/FIT3179/main/DataVis2/height.hist.csv"
     },
@@ -164,6 +164,7 @@
             "scale": {"domain":[0,220]}
           },
           "color": {"field": "Sex", "type": "nominal", "scale": {"domain": ["Female", "Male"], "range": ["#675193", "#ca8861"]}},
+          "shape": {"field": "Sex", "type": "nominal", "scale": {"domain": ["Female", "Male"]}},
           "tooltip": [{"field": "Name", "type": "nominal", "title": "Athlete"}, 
                     {"field": "Weight", "type": "quantitative", "title": "Weight (kg)"}, 
                     {"field": "Height", "type": "quantitative", "title": "Height (m)"}, 
