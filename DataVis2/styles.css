@@ -34,7 +34,7 @@ body {
 }
 
 .description h2, h1, h3 {
-    margin-top: 0px; margin-bottom: 0px;  margin-left: 10px; margin-left: 10px;
+    margin-top: 5px; margin-bottom: 5px;  margin-left: 10px; margin-left: 10px;
 }
 
 .description p {
@@ -50,7 +50,7 @@ body {
 }
 
 .pure-g {
-    margin-bottom: 0px;
+    margin-bottom: 5px; margin-top: 5px;
 }
 
 .small-font {
@@ -68,4 +68,5 @@ body {
 
 .vg-tooltip {
     font-family: "Poppins";
+}
 }
