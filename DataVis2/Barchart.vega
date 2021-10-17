@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Bar chart",
+    "width": 160, 
+    "height": 300,
+    "title": {"text": "Most Gold Medals","font": "Poppins", "fontSize": 14},
+    "data": {"url": "https://raw.githubusercontent.com/angeata0003/FIT3179/main/medal_tally.csv"},
+    "params": [{
+      "name": "medal_count", 
+      "value": 5, 
+      "bind": {
+        "input": "range", 
+        "min": 5, 
+        "max": 10, 
+        "step": 1, 
+        "name": "Number of Medals"
+      }
+    }],
+    "transform": [{"filter": "datum.n > medal_count"}],
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Name",
+        "type": "ordinal", 
+        "title": "Athlete", 
+        "sort": "-x"},
+      "x": {
+        "field": "n",
+        "type": "quantitative",
+        "title": "Number of Gold Medals"},
+      "color": {"field": "Sex", 
+        "type": "nominal", 
+        "scale": {"domain": ["F", "M"], 
+          "range": ["#675193", "#ca8861"]}, 
+          "legend":null
+        },
+      "tooltip": [{"field": "Name", "type": "nominal", "title": "Athlete"}, 
+      {"field": "Team", "type": "nominal", "title": "Team"}, 
+      {"field": "Sport", "type": "nominal", "title": "Sport"}]
+    }, 
+    "config": {
+      "axis": {"labelFont": "Poppins", "titleFont": "Poppins"}
+    }
+  }

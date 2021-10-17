@@ -1,0 +1,215 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A Scatterplot of Athlete Height and Weight",
+    "title": {"text": "A Scatterplot of Athlete Height and Weight", "font": "Poppins", "fontSize": 14},
+    "width": 720,
+    "height": 330,
+    "data": {
+      "url": "https://raw.githubusercontent.com/angeata0003/FIT3179/main/height.hist.csv"
+    },
+    "params": [
+        {
+            "name": "Sport_Selection", 
+            "bind":{
+                "input": "select", 
+                "options": [
+                    null, 
+                    "Alpine Skiing",
+                    "Archery",
+                    "Art Competitions",
+                    "Athletics",
+                    "Badminton",
+                    "Baseball",
+                    "Basketball",
+                    "Beach Volleyball",
+                    "Biathlon",
+                    "Bobsleigh",
+                     "Boxing",
+                     "Canoeing",
+                     "Cross Country Skiing",
+                     "Curling",
+                     "Cycling",
+                     "Diving",
+                     "Equestrianism",
+                     "Fencing",
+                     "Figure Skating",
+                     "Football",
+                     "Freestyle Skiing",
+                     "Golf",
+                     "Gymnastics",
+                     "Handball",
+                     "Hockey", 
+                     "Ice Hockey", 
+                     "Judo",
+                     "Lacrosse",
+                     "Luge",
+                     "Modern Pentathlon",
+                     "Motorboating",
+                     "Nordic Combined",
+                     "Rhythmic Gymnastics",
+                     "Rowing",
+                     "Rugby Sevens",
+                     "Rugby",
+                     "Sailing",
+                     "Shooting",
+                     "Short Track Speed Skating",
+                     "Skeleton",
+                     "Ski Jumping",
+                     "Snowboarding",
+                     "Softball",
+                     "Speed Skating",
+                     "Swimming",
+                     "Synchronized Swimming",
+                     "Table Tennis",
+                     "Taekwondo",
+                     "Tennis",
+                     "Trampolining",
+                     "Triathlon",
+                     "Tug-Of-War",
+                     "Volleyball",
+                     "Water Polo",
+                     "Weightlifting",
+                     "Wrestling"
+                ],
+                "labels": [
+                    "Show All", 
+                    "Alpine Skiing",
+                    "Archery",
+                    "Art Competitions",
+                    "Athletics",
+                    "Badminton",
+                    "Baseball",
+                    "Basketball",
+                    "Beach Volleyball",
+                    "Biathlon",
+                    "Bobsleigh",
+                     "Boxing",
+                     "Canoeing",
+                     "Cross Country Skiing",
+                     "Curling",
+                     "Cycling",
+                     "Diving",
+                     "Equestrianism",
+                     "Fencing",
+                     "Figure Skating",
+                     "Football",
+                     "Freestyle Skiing",
+                     "Golf",
+                     "Gymnastics",
+                     "Handball",
+                     "Hockey", 
+                     "Ice Hockey", 
+                     "Judo",
+                     "Lacrosse",
+                     "Luge",
+                     "Modern Pentathlon",
+                     "Motorboating",
+                     "Nordic Combined",
+                     "Rhythmic Gymnastics",
+                     "Rowing",
+                     "Rugby Sevens",
+                     "Rugby",
+                     "Sailing",
+                     "Shooting",
+                     "Short Track Speed Skating",
+                     "Skeleton",
+                     "Ski Jumping",
+                     "Snowboarding",
+                     "Softball",
+                     "Speed Skating",
+                     "Swimming",
+                     "Synchronized Swimming",
+                     "Table Tennis",
+                     "Taekwondo",
+                     "Tennis",
+                     "Trampolining",
+                     "Triathlon",
+                     "Tug-Of-War",
+                     "Volleyball",
+                     "Water Polo",
+                     "Weightlifting",
+                     "Wrestling"  
+                ],
+                "name": "Sport Selection"
+            }
+        }, 
+        {
+          "name": "Sex_Selection", 
+          "bind": {
+            "input": "select", 
+            "options": [null, "Female", "Male"], 
+            "labels": ["Show All", "Female", "Male"], 
+            "name": "Sex"
+          }
+        }
+    ],
+    "transform": [
+        {"filter": "Sport_Selection == null || datum.Sport == Sport_Selection"}, 
+        {"filter": "Sex_Selection == null || datum.Sex == Sex_Selection"}
+    ],
+    "layer":[
+      {
+        "mark": "point",
+        "encoding": {
+          "x": {
+            "field": "Height",
+            "title": "Height (m)",
+            "type": "quantitative",
+            "scale": {"zero": false, "domain":[120,230]}
+          },
+          "y": {
+            "field": "Weight",
+            "title": "Weight (kg)",
+            "type": "quantitative", 
+            "scale": {"domain":[0,220]}
+          },
+          "color": {"field": "Sex", "type": "nominal", "scale": {"domain": ["Female", "Male"], "range": ["#675193", "#ca8861"]}},
+          "tooltip": [{"field": "Name", "type": "nominal", "title": "Athlete"}, 
+                    {"field": "Weight", "type": "quantitative", "title": "Weight (kg)"}, 
+                    {"field": "Height", "type": "quantitative", "title": "Height (m)"}, 
+                  {"field": "Sport", "type": "nominal", "title": "Sport"}]
+        }
+      },
+      {
+        "mark": "rule",
+        "encoding": {
+          "y": {"datum": 70.70239},
+          "size": {"value": 2},
+          "color": {"value": "#1a3e78"}
+        }
+      },
+      {
+        "mark": "rule",
+        "encoding": {
+          "x": {"datum": 175.339},
+          "size": {"value": 2},
+          "color": {"value": "#1a3e78"}
+        }      
+      },
+      {
+          "mark": "text", 
+          "encoding": {
+              "text": {"datum": "70.7kg"}, 
+              "x":{"datum": 123},
+              "y":{"datum": 76},
+              "color": {"value": "#1a3e78"}, 
+              "size": {"value": 12}
+          }
+      }, 
+      {
+        "mark": "text", 
+        "encoding": {
+            "text": {"datum": "175.33m"}, 
+            "x":{"datum": 180},
+            "y":{"datum": 4},
+            "color": {"value": "#1a3e78"}, 
+            "size": {"value": 12}
+        }
+    }
+    ],  
+    "config": {
+      "axis": {"labelFont": "Poppins", "titleFont": "Poppins"}, 
+      "legend": {"labelFont": "Poppins", "titleFont": "Poppins", "orient": "bottom-right"}, 
+      "font": "Poppins"
+    }
+  }
